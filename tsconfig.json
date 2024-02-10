@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "outDir": "./dist/",
+    "noImplicitAny": true,
+    "module": "es6",
+    "target": "es5",
+    "allowJs": true,
+    "lib": ["dom", "es6"],
+    "types": ["phaser"],
+    "moduleResolution": "node"
+  },
+  "include": [
+    "src/**/*",
+    "typings/**/*"
+  ]
+}
