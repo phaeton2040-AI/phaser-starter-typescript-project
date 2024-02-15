@@ -1,7 +1,3 @@
-Certainly! Below is a README.md template for your Phaser game project, incorporating the key points from our conversation. Feel free to adjust it to fit your project's specifics or personal preferences.
-
----
-
 # Phaser 3 TypeScript Template
 
 A straightforward, non-overloaded template for developing web-based games using Phaser 3, TypeScript, and Webpack. Optimized for simple development and deployment, this template serves as an ideal starting point for your Phaser game projects.
